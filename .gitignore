@@ -1,0 +1,4 @@
+creds.txt
+*.exe
+.terraform/
+.terraform.lock.hcl
